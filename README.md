@@ -1,8 +1,7 @@
 # Bazaar — Shopping Website (Daraz-Style Demo)
 
 A multi-category shopping website demo built with **HTML, CSS, Bootstrap and
-Tailwind CSS**, matching the "Shopping Website" project already listed on
-Abubakar Shafaqat's resume/portfolio.
+Tailwind CSS**, matching the "Shopping Website"
 
 ## Features
 - Product catalog across 6 categories: Electronics, Fashion, Home & Living,
